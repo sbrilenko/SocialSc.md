@@ -163,4 +163,5 @@ method parameters. But do not use it as it is in for example `team.js` file and 
 * pull to refresh block is using in `challenges.html`, `leaderboard.html` and `stream.html`. Replace it with directive.
 * review some functionality with 2 and more libraries / directive to check all conflicts or lags.
 * use version control - bower
+* review offline functionality
 
