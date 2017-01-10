@@ -161,3 +161,6 @@ method parameters. But do not use it as it is in for example `team.js` file and 
 * avoid `$.ajax` usages directly in controller
 * in most html files you have img which is `back` button. Replace it with directive
 * pull to refresh block is using in `challenges.html`, `leaderboard.html` and `stream.html`. Replace it with directive.
+* review some functionality with 2 and more libraries / directive to check all conflicts or lags.
+* use version control - bower
+
